@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Science Abstracts]]></title>
         <description><![CDATA[Science Abstracts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/conference-abstracts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 13:28:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 13:28:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/conference-abstracts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Tracing the Impact of Coronal Mass Ejection in the Chromosphere</p>]]></description>
+            <link>https://thegrid.ai/conference-abstracts/tracing-the-impact-of-coronal-mass-ejection-in-the-chromosph/index.html</link>
+            <guid isPermaLink="false">80e78e06-c07b-4b8b-b26e-4e4b9e757a81</guid>
+            <pubDate>Wed, 27 Apr 2016 13:28:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>An Automated Algorithm to Distinguish and Characterize Solar Flares and Associated Sequential Chromospheric Brightenings</p>]]></description>
-            <link>undefinedan-automated-algorithm-to-distinguish-and-characterize-solar/index.html</link>
+            <link>https://thegrid.ai/conference-abstracts/an-automated-algorithm-to-distinguish-and-characterize-solar/index.html</link>
             <guid isPermaLink="false">fb19e040-e312-4528-a78c-0cbeb5ea4c07</guid>
             <pubDate>Wed, 27 Apr 2016 13:28:22 GMT</pubDate>
         </item>
